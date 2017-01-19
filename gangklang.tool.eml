@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="1.8" jdk_type="JavaSDK">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="jgoodies-forms-1.8.0.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/jgoodies-forms-1.8.0-sources.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/jgoodies-forms-1.8.0-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/jgoodies-forms-1.8.0.jar!/"/>
+	</lib>
+	<lib name="jgoodies-forms-1.8.0-sources.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/jgoodies-forms-1.8.0-sources.jar!/"/>
+	</lib>
+</component>

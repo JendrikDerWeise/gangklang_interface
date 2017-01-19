@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FlowMaschine Interface">
+    <output-path>$PROJECT_DIR$/out/artifacts/FlowMaschine_Interface</output-path>
+    <root id="archive" name="FlowMaschine Interface.jar">
+      <element id="module-output" name="gangklang.tool" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../gangklang app/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
